@@ -1,0 +1,9 @@
+Rencana Wo
+Senin:
+  - Back
+  - Bicep
+  - Traps
+Selasa:
+  - Chess
+  - Shoulder
+  - Tricep
