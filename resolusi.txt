@@ -1,3 +1,6 @@
 Resolusi saya:
   - Stop Udud
+    * Pagi = 0
+    * Siang = 5
+    * Malam = 3
   - Konsisten Wo
